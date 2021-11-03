@@ -36,11 +36,11 @@
 ### 🤝🏻 &nbsp;Reach out
 
 <p align="center">
-<a href="www.yashweb07.github.io">Website</a>
-<a href="www.linkedin.com/in/yash-belsare-0706/">LinkedIn</a>
-<a href="www.fiverr.com/yashblends">Fiverr</a>
-<a href="mailto:yashrbelsare@gmail.com">Mail</a>
-<a href="www.instagram.com/yashblends">Instragram</a>
+<a style="margin-right: 20px;" href="www.yashweb07.github.io">Website</a>
+<a style="margin-right: 20px;" href="www.linkedin.com/in/yash-belsare-0706/">LinkedIn</a>
+<a style="margin-right: 20px;" href="www.fiverr.com/yashblends">Fiverr</a>
+<a style="margin-right: 20px;" href="mailto:yashrbelsare@gmail.com">Mail</a>
+<a style="margin-right: 20px;" href="www.instagram.com/yashblends">Instragram</a>
 <a href="www.behance.net/yashbelsare">Behance</a>
 </p>
 
