@@ -38,12 +38,12 @@
 ### 🤝🏻 &nbsp;Reach out
 
 <p align="center">
-<a style="color: #FFF;" href="www.yashweb07.github.io">Website</a>
-<a style="color: #FFF;" href="www.linkedin.com/in/yash-belsare-0706/">LinkedIn</a>
-<a style="color: #FFF;" href="www.fiverr.com/yashblends">Fiverr</a>
+<a style="color: #FFF;" href="https://yashweb07.github.io/">Website</a>
+<a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare-0706/">LinkedIn</a>
+<a style="color: #FFF;" href="https://fiverr.com/yashblends">Fiverr</a>
 <a style="color: #FFF;" href="mailto:yashrbelsare@gmail.com">Mail</a>
-<a style="color: #FFF;" href="www.instagram.com/yashblends">Instagram</a>
-<a style="color: #FFF;" href="www.behance.net/yashbelsare">Behance</a>
+<a style="color: #FFF;" href="https://instagram.com/yashblends">Instagram</a>
+<a style="color: #FFF;" href="https://behance.net/yashbelsare">Behance</a>
 </p>
 
 -----
