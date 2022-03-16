@@ -1,12 +1,12 @@
 ### Hi there, I'm Yash 👋
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy creating and designing websites using various front end tools.\
+💡 &nbsp;I enjoy creating and designing cool websites and apps.\
 🎓 &nbsp;I'm a B.Tech undergrad in my 3rd Year learning CSE.\
-🌱 &nbsp;Currently, further developing my Web dev skills and understanding different frameworks.\
+🌱 &nbsp;Working and improving in core programming skills and problem solving.\
 ✍️ &nbsp;I also am great at Blender 3d. Instagram: www.instagram.com/yashblends.\<br>
-💬 &nbsp;Do reach out to me if there's a website or 3d project and I'd love to help out.\
-📄 &nbsp;You can email me at yashrbelsare@gmail.com or check out my Fiverr freelancing profile here: www.fiverr.com/yashblends\
+💬 &nbsp;Do reach out to me if you like my work.\
+📄 &nbsp;You can email me at yashrbelsare@gmail.com or linkedin: https://linkedin.com/in/yash-belsare-0706/
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
