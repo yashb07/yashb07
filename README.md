@@ -37,8 +37,8 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with me on LinkedIn
-<a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/">LinkedIn</a>
+### 🤝🏻 &nbsp;Connect with me on <a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/">LinkedIn</a>
+
 
 -----
 Credits for the readme design: [Aditya Vikram Singh](https://github.com/AVS1508)
