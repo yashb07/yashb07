@@ -37,7 +37,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with me on <a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/" target="_blank">LinkedIn</a>
+### 🤝🏻 &nbsp;Connect with me on <a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/" target="blank_">LinkedIn</a>
 
 
 -----
