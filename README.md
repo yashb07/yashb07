@@ -28,7 +28,7 @@
 <!-- <img align="" alt="Terminal" width="26px" src="./img/terminal-light.svg" /> -->
 <!-- <img align="" alt="Terminal" width="26px" src="./img/terminal-dark.svg" /> -->
 </p>
-
+<br/>
 <div align="center">
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </div>
