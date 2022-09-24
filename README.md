@@ -1,12 +1,9 @@
-### Hi there, I'm Yash 👋
-### 👨🏻‍💻 &nbsp;About Me
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash👋</h1>
 
+### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I enjoy creating and designing cool websites and apps.\
 🎓 &nbsp;I'm a B.Tech undergrad in my fourth year of study.\
 🌱 &nbsp;Working and improving in core programming skills and problem solving.\
-✍️ &nbsp;I also am great at Blender 3d. Instagram: www.instagram.com/yashblends.\<br>
-💬 &nbsp;Do reach out to me if you like my work.\
-📄 &nbsp;You can email me at yashrbelsare@gmail.com or linkedin: https://linkedin.com/in/yash-belsare/
 
 ### 🛠 &nbsp;My Tech Skills
 
@@ -40,13 +37,8 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Reach out
-<a style="color: #FFF;" href="https://yashbelsare.vercel.app/">Website</a>
-<!-- <a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/">LinkedIn</a> -->
-<!-- <a style="color: #FFF;" href="https://fiverr.com/yashblends">Fiverr</a> -->
-<a style="color: #FFF;" href="mailto:yashrbelsare@gmail.com">Mail</a>
-<!-- <a style="color: #FFF;" href="https://instagram.com/yashblends">Instagram</a> -->
-<a style="color: #FFF;" href="https://behance.net/yashbelsare">Behance</a>
+### 🤝🏻 &nbsp;Connect with me on LinkedIn
+<a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/">LinkedIn</a>
 
 -----
 Credits for the readme design: [Aditya Vikram Singh](https://github.com/AVS1508)
