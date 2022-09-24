@@ -41,15 +41,12 @@
 </p>
 
 ### 🤝🏻 &nbsp;Reach out
-
-<p align="center">
-<a style="color: #FFF;" href="https://yashweb07.github.io/">Website</a>
-<a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare-0706/">LinkedIn</a>
-<a style="color: #FFF;" href="https://fiverr.com/yashblends">Fiverr</a>
+<a style="color: #FFF;" href="https://yashbelsare.vercel.app/">Website</a>
+<!-- <a style="color: #FFF;" href="https://linkedin.com/in/yash-belsare/">LinkedIn</a> -->
+<!-- <a style="color: #FFF;" href="https://fiverr.com/yashblends">Fiverr</a> -->
 <a style="color: #FFF;" href="mailto:yashrbelsare@gmail.com">Mail</a>
-<a style="color: #FFF;" href="https://instagram.com/yashblends">Instagram</a>
+<!-- <a style="color: #FFF;" href="https://instagram.com/yashblends">Instagram</a> -->
 <a style="color: #FFF;" href="https://behance.net/yashbelsare">Behance</a>
-</p>
 
 -----
 Credits for the readme design: [Aditya Vikram Singh](https://github.com/AVS1508)
